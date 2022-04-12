@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and computer programming. 
 - 🌱 I’m currently learning code and software development.
 - 💞️ I’m looking forward to collaborating on projects as well as developing new skills. 
-- 📫 Here. 
+- 📫 You can reach me Here. 
 
 <!---
 AshleyNic1/AshleyNic1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
